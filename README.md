@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rayen%20Chalouati&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
-# Hi, I'm Rayen 👋
+# Hi, I'm Rayen Aka Jissoho 👋
 
 Software developer from Tunisia passionate about building modern web applications, desktop software, and contributing to open-source projects.
 
